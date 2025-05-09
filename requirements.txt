@@ -17,4 +17,4 @@ pyarrow>=16.0.0
 
 # Hugging Face Hub & packaging
 huggingface_hub>=0.17.0
-packaging>=23.0
+packaging>=23.0 update this requirements.txt file
